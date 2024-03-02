@@ -1182,6 +1182,7 @@ p{
   }
   .subtitle, 
   .more{
+    padding-top:35px;
     font-size: 14px;
   }
   .services__title {
