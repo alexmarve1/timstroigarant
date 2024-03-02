@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="400" height="400" viewBox="0 0 400 400" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.2</desc>
+<defs>
+</defs>
+<g transform="matrix(1.48 0 0 1.48 200 200)" id="path848"  >
+<circle style="stroke: none; stroke-width: 1.05833332; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(97,177,90); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="67.204163" />
+</g>
+<g transform="matrix(1.76 0 0 1.76 200 200)" id="path898"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 4.44336; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-67.73, -67.73)" d="M 67.617937 35.950828 A 31.481828 31.475065 0 0 0 36.251509 67.42545 A 31.481828 31.475065 0 0 0 41.657969 85.060891 L 36.717477 99.515968 L 50.535941 93.78956 a 31.481828 31.475065 0 0 0 17.196953 5.111392 a 31.481828 31.475065 0 0 0 31.48226 -31.475502 a 31.481828 31.475065 0 0 0 -31.48226 -31.474622 a 31.481828 31.475065 0 0 0 -0.114957 0 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1.76 0 0 1.76 201.82 199.59)" id="path904"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 0.666504; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(-68.77, -67.5)" d="m 59.52692 64.934027 c 0 0 4.389557 8.242412 12.485445 10.587459 c 1.856281 -1.545086 2.272695 -4.256796 4.211261 -4.194433 c 3.382648 0.108827 6.584379 1.811178 8.556322 3.903257 c 2.234954 2.371115 0.182963 7.835519 -5.844212 7.835519 c -6.027171 0 -19.903467 -5.301983 -24.519276 -14.497809 c -4.615805 -9.195828 -2.000308 -14.421721 0.571889 -15.767579 c 2.572198 -1.345853 4.200689 -1.0523 4.963846 0.422224 c 1.48775 2.874538 2.237102 4.787707 3.232084 8.118559 c 0.48909 1.637301 -3.657359 3.592803 -3.657359 3.592803 z" stroke-linecap="round" />
+</g>
+</svg>
