@@ -1237,6 +1237,9 @@ p{
   .form img{
     display: none; 
   }
+  .how_we_works {
+    padding: 10px;
+  }
   
 }
 
