@@ -10,7 +10,7 @@
     $mail->setLanguage('ru' 'phpmailer/language/');
     $mail->IsHTML(true);
 
-    $mail->setFrom('timstroigarant.ru', 'Тимстройгарант');
+    $mail->setFrom('alexmarve1.github.io/timstroigarant', 'Тимстройгарант');
     $mail->addAddress('vampir4eg1989@gmail.com');
     $mail->Subject = "Вам пришла заявка на оказание услуг";
 
